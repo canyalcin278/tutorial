@@ -1,0 +1,34 @@
+  strlen
+
+  sterlenn returns lenght of a string
+
+
+       <?php
+          echo strlen("something");
+       ?>
+
+  str_word_count
+  
+  counts words
+
+      <?php
+        echo str_word_count("something");
+      ?>
+      
+   strrev
+   
+   reverses a string
+   
+   
+     <?php
+       echo strrev("something");
+     ?>
+     
+     
+     str_replace
+     
+     replaces some characters with some other characters in string
+     
+     <?php
+         echo str_replace("hello", "world", "something some");
+     ?>
