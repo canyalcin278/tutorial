@@ -1,0 +1,42 @@
+  Pi
+  <?php
+     echo(pi());
+  ?>
+  
+  Min Max
+  
+  <?php
+     echo(min(0, 200, 10, 120, -8, -20)); 
+     echo(max(0, 200, 10, 120, -8, -20));
+  ?>
+  
+  abs
+  
+  <?php
+    echo(abs(-10.7)); returns 10.7
+  ?>
+  
+  sqrt
+  
+  sqrt returns the square
+  
+  <?php
+     echo(sqrt(25)) returns 5
+  ?>
+  
+  round 
+  
+  <?php
+      echo(round(0.51)); returns 1
+      echo(round(0.49)); returns 0
+  ?>
+  
+  
+  random number
+  
+  <?php
+    echo(rand());
+  ?>
+  
+
+  
