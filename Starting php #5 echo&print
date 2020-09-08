@@ -1,0 +1,23 @@
+in php we have 2 basic ways to get output echo or print
+
+ECHO
+
+<?php
+
+  $a = "someting";
+  echo "Hello";
+  echo"$a"
+  
+?>
+
+PRİNT
+
+<?php
+  $b = "something";
+
+  print "$b";
+
+?>
+but print has different varieties
+
+like print_r but I'll talk about it later
