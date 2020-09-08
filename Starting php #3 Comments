@@ -1,0 +1,17 @@
+Comments
+
+  A comment in PHP code is a line that is not executed as a part of the program. Its only purpose is to be read by someone who is looking at the code.
+  
+  Comments can be used to:
+  
+ - Let others understand your code
+ - Remind yourself of what you did
+ - Comments can remind you of what you were thinking when you wrote the code
+ 
+ Example
+ 
+ <?php
+// This is a kind of comment
+
+# This is also a kind of comment
+?>
