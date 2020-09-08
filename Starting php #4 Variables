@@ -1,0 +1,19 @@
+ How to start a variable ?
+use "$" sign for start a variable
+
+EXAMPLES
+
+<?php
+
+   $txt = "hi!";
+   $a = 5;
+   $b = 20.2;
+?>
+ all of these codes are variables
+ 
+and you can echo a variable like this
+
+<?php
+   $txt = "Hello";
+   echo $txt;
+?>
