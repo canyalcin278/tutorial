@@ -1,0 +1,75 @@
+Variables can store data of different types.
+diffirent variables keeps diffirent codes
+
+php variables are these
+
+
+Integer
+NULL
+Float
+Boolean
+Resource
+Array
+String
+
+    String
+
+   <?php
+
+         $a = 'something';
+  
+         echo $a;
+      
+          /*This is how you output Integer expressions*/
+
+
+   ?>
+   
+   integer 
+ 
+    An integer is a non-decimal number.
+
+<?php
+
+       $b = 62311;
+      echo $b;
+       /*This is how you output integer  expressions*/
+       
+       
+    Float
+    
+    <?php
+             $c = 5.1343;
+             echo $c;
+             /*This is how you output Float expressions*/
+    ?>
+    
+    Boolean
+    
+    boolean has two options true or false
+    
+    <?php
+    
+            $d = true;
+            $e = false;
+    
+    ?>
+    
+    
+    ARRAY
+    
+     array stores multiple values in onen variable.
+     <?php
+        $names = array("can","jamie","ted");
+        echo $names;
+     ?>
+     
+     <?php
+           $f = "someting";
+           $f = null;
+           echo $f;
+?>
+
+?>
+
+
