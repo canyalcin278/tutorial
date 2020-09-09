@@ -1,0 +1,25 @@
+
+   Constants
+   A constant is an identifier (name) for a simple value
+   Sorting goes like this in php
+   define(name, value, case-insensitive)
+
+examples
+
+<?php
+define("aaa", "something");
+
+echo aaa;
+?>
+
+Constant Arrays
+
+<?php
+define("names", [
+  "Romeo",
+  "jamie",
+  "Ted"
+]);
+echo names[0];
+?>
+
