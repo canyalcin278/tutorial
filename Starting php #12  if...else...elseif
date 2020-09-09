@@ -1,0 +1,27 @@
+if statement - executes some code if one condition is true
+ifelse statement - executes some code if a condition is true and another code if that condition is false
+if else else statement - executes different codes for more than two conditions
+switch statement - selects one of many blocks of code to be executed
+
+
+EXAMPLES
+
+İF
+
+<?php
+$t = $_POST
+
+if ($t < "20") {
+  echo "the sum is smaller than 20";
+}
+?>
+İF ELSE
+<?php
+$t = $_POST
+
+if ($t < "20") {
+  echo "the sum is smaller than 20";
+} else {
+  echo "the sum is bigger than 20";
+}
+?>
