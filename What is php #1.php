@@ -1,3 +1,4 @@
+/*
 First thing first i want to explain what is php ? what can you do with php ?
 
 PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages
@@ -18,3 +19,4 @@ generate dynamic page content
 Why PHP ?
 PHP is compatible with almost all servers used today 
 PHP runs on various platforms (Windows, Linux, Unix, Mac OS)
+*/
