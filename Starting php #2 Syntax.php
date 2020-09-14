@@ -1,4 +1,4 @@
-A PHP script starts with <?php and ends with ?> and The default file extension for PHP files is ".php".
+/*A PHP script starts with <?php and ends with ?> and The default file extension for PHP files is ".php".*/
 
 <?php
 code
@@ -13,16 +13,18 @@ Examples
 Output:
 
 Hi
-
+/*
 İn php we have some basic keywords:
 (if, else, while, echo)
 like these
+*/
 
 EXAMPLES
 
 #1 => echo
-
+/*
 in php if we want to write someting in screen we use echo
+*/
 
 <?php
      echo "hi";
